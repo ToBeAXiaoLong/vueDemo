@@ -1,0 +1,2 @@
+webpackJsonp([1],{V13Z:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var i={render:function(){var e=this.$createElement;return(this._self._c||e)("div")},staticRenderFns:[]};var r=t("VU/8")({name:"mainPage",data:function(){return{title:"zlp"}}},i,!1,function(e){t("x8i9")},null,null);n.default=r.exports},x8i9:function(e,n){}});
+//# sourceMappingURL=1.32280c4c364ddf07c363.js.map
