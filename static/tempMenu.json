@@ -1,26 +1,26 @@
 [
   {
-    "path": "./test",
+    "path": "/test",
     "name": "测试",
     "phypath": "page/home.vue",
     "type": 1,
     "children": [
       {
-        "path": "./test/timetest",
+        "path": "/test/timetest",
         "name": "时间",
         "type": 2,
         "phypath": "page/test/timetest.vue",
         "children": []
       },
       {
-        "path": "./test/Computed&Watch",
+        "path": "/test/Computed&Watch",
         "name": "计算和监听",
         "type": 2,
         "phypath": "page/test/Computed&Watch.vue",
         "children": []
       },
       {
-        "path": "./test/Bind",
+        "path": "/test/Bind",
         "name": "绑定",
         "type": 2,
         "phypath": "page/test/Bind/Bind.vue",
@@ -29,13 +29,13 @@
     ]
   },
   {
-    "path": "./css",
+    "path": "/css",
     "name": "CSS",
     "phypath": "page/home.vue",
     "type": 1,
     "children": [
       {
-        "path": "./css/transit",
+        "path": "/css/transit",
         "name": "过渡",
         "type": 2,
         "phypath": "page/css/transit.vue",
@@ -44,20 +44,20 @@
     ]
   },
   {
-    "path": "./ECharts",
+    "path": "/ECharts",
     "name": "ECharts",
     "phypath": "page/home.vue",
     "type": 1,
     "children": [
       {
-        "path": "./ECharts/Bar",
+        "path": "/ECharts/Bar",
         "name": "柱状图",
         "type": 2,
         "phypath": "page/ECharts/Bar.vue",
         "children": []
       },
       {
-        "path": "./ECharts/Geo",
+        "path": "/ECharts/Geo",
         "name": "地图",
         "type": 2,
         "phypath": "page/ECharts/Geo.vue",
@@ -66,13 +66,13 @@
     ]
   },
   {
-    "path": "./js",
+    "path": "/js",
     "name": "JS",
     "phypath": "page/home.vue",
     "type": 1,
     "children": [
       {
-        "path": "./js/typeChange",
+        "path": "/js/typeChange",
         "name": "类型转换",
         "type": 2,
         "phypath": "page/js/typeChange.vue",
@@ -81,13 +81,13 @@
     ]
   },
   {
-    "path": "./iview",
+    "path": "/iview",
     "name": "iView",
     "phypath": "page/home.vue",
     "type": 1,
     "children": [
       {
-        "path": "./iview/upload",
+        "path": "/iview/upload",
         "name": "Upload上传",
         "type": 2,
         "phypath": "page/iview/upload/uploadMain.vue",
